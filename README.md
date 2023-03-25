@@ -15,7 +15,4 @@ Currently, I am working on a personal project that involves developing an e-comm
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
 [![](https://visitcount.itsvg.in/api?id=Aatul444&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
